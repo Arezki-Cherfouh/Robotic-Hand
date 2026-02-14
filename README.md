@@ -136,7 +136,3 @@ calibrateServos();
 ## License
 
 MIT - Free for learning and modification
-
-```
-
-```
